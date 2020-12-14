@@ -1,0 +1,10 @@
+.board_nav {
+    padding-bottom: 50px;
+}
+
+.board_main {
+    min-height: 100px;
+    text-overflow: ellipsis;
+}
+
+
